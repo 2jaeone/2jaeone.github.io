@@ -1,6 +1,19 @@
 ---
-title:  ""
-excerpt: <p><img src="https://blogfiles.pstatic.net/MjAyMDEyMDdfMTQ3/MDAxNjA3MzIxNDMzODQ2.l4aMsbdDw5AxjUTLN0eZ2MPgz70ezOpPihSNNdkxT4gg.yGzfHJffNb35mJq4fmTv7Nf0q7r048tA2J4MyaoJlaog.PNG.zkdltmxmrkek/EVENT.png" class="__se_object" s_type="attachment" s_subtype="photo" style=" width:740px; height:284px; rwidth:740px; rheight:284px;" width="740" height="284" imgqe="true" jsonvalue="%7B%7D" rwidth="740px" rheight="284px"></p>   개인적으로 꽤 많은 이벤트를 기획하고 제작하면서 가장 쉬우면서도 어려운 기획이라 느꼈다. 정확히는 최초 기획의 진입장벽이 낮으면서도 완성도를 갖추기에는 가장 어려웠다.
+title:  "이벤트 기획"
+excerpt: 주관적으로 정리해 본 게임 이벤트 기획의 3원칙
+
+categories:
+  - gd
+tags:
+  - [Game Design]
+
+toc: true
+toc_sticky: true
+ 
+date: 2020-12-07
+last_modified_at: 2021-12-12
+---
+<p><img src="https://blogfiles.pstatic.net/MjAyMDEyMDdfMTQ3/MDAxNjA3MzIxNDMzODQ2.l4aMsbdDw5AxjUTLN0eZ2MPgz70ezOpPihSNNdkxT4gg.yGzfHJffNb35mJq4fmTv7Nf0q7r048tA2J4MyaoJlaog.PNG.zkdltmxmrkek/EVENT.png" class="__se_object" s_type="attachment" s_subtype="photo" style=" width:740px; height:284px; rwidth:740px; rheight:284px;" width="740" height="284" imgqe="true" jsonvalue="%7B%7D" rwidth="740px" rheight="284px"></p>   개인적으로 꽤 많은 이벤트를 기획하고 제작하면서 가장 쉬우면서도 어려운 기획이라 느꼈다. 정확히는 최초 기획의 진입장벽이 낮으면서도 완성도를 갖추기에는 가장 어려웠다.
 
 내가 이렇게 생각한 근거는 다음과 같다. 이벤트는 통상 한시적으로 진행되며, RPG게임에서는 기존의 선을 아슬아슬하게 넘나들 수 있고 새로운 시도를 해볼 수 있다. 실제로 실험적인 컨텐츠를 먼저 이벤트 형식으로 진행해보는 경우가 많았다. 이를 통해 라이브의 즉각적인 피드백을 받아볼 수 있었다. 그러나 반대로 그 선을 심하게 넘거나 목적성을 잃어버리게 되면 이벤트를 하고도 되려 유저들에게 비난을 받거나 심하면 유저 이탈의 촉진을 불러올 수 있다는 점에서 부담을 가지고 진행해야 하는 기획이다.
 
@@ -155,16 +168,3 @@ excerpt: <p><img src="https://blogfiles.pstatic.net/MjAyMDEyMDdfMTQ3/MDAxNjA3MzI
 
 
 앞서서 말했지만 이벤트 기획 역시 게임디자인이고, 내게 좋은 게임디자인은 다수의 게이머가 즐겨주는 것이다. 위 3원칙은 본인이 경험하고 들었던 바를 정리한 것일 뿐이고 중요한 것은 위 3원칙을 지키는 것 이 아니라 이를 넘어서서 더 좋은 이벤트를 기획할 수 있도록 생각하고 경험하는 것이다.
-
-
-categories:
-  - gd
-tags:
-  - [Game Design]
-
-toc: true
-toc_sticky: true
- 
-date: 2021-12-12
-last_modified_at: 2021-12-12
----
