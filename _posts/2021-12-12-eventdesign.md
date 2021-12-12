@@ -5,7 +5,7 @@ excerpt: 주관적으로 정리해 본 게임 이벤트 기획의 3원칙
 categories:
   - gd
 tags:
-  - [Game Design][Game Event]
+  - [Game Design],[Game Event]
 
 toc: true
 toc_sticky: true
